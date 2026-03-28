@@ -81,3 +81,10 @@ console.log("Trabajadores (number):", trabajadoresNumero);
 console.log("Presupuesto convertido a string:", presupuestoTexto);
 
 console.log("Boolean desde número:", proyectoBoolean);
+
+// ============================================
+// CIERRE
+// ============================================
+console.log("===========================");
+console.log("FIN DE FICHA");
+console.log("===========================");
